@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Sania Mulla! 👋
 
-<!--
-**SaniaMulla/SaniaMulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Engineering Student | Web Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I am a **fourth-year Computer Engineering student at PVGCOET, Pune**, with a strong foundation in **software development and hardware principles**. Passionate about coding, web development, and continuous learning, I thrive in dynamic environments where I can apply my skills to real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 About Me
+- 🎓 Pursuing **B.E. in Computer Engineering** (2021-2025)  
+- 💡 Interested in **Web Development, Software Engineering, and Artificial Intelligence**  
+- 🔨 **Technical Skills:**  
+  - **Programming:** C++, Python  
+  - **Web Development:** HTML, CSS, Bootstrap  
+  - **Tools & OS:** VS Code, Windows, Linux  
+- ⚽ **District-level Football Player**
+- Creative Designer 🎨
+ 
+---
+
+## 💼 Experience  
+### 🌐 Web Development Intern - **Jijau Softwares, Satara** (Dec 2023 - Jan 2024)  
+- Designed & implemented **responsive web pages** using **CSS frameworks like Bootstrap**  
+- Adapted to **new tools & technologies**, enhancing technical expertise  
+- Strengthened **soft skills** while working on real-world projects  
+
+### 🏢 Family Business - **Raj Sales and Services**  
+- Assisted in business operations by **creating presentations and contributing innovative ideas**  
+- Business website: [cablemall.in](https://cablemall.in)  
+
+---
+
+## 📌 Projects  
+### 📈 **Stock Market Website**  
+- **Web Technology project** that provides **real-time stock prices, historical data, and interactive charts**  
+
+### 📑 **Seminar: Social Engineering & Artificial Intelligence**  
+- Explored the intersection of **AI and cybersecurity threats**
+
+### **SynapseIQ**
+- Educational platform that provides summaries , flashcards , etc from documents and many other features like chatbot ,etc 
+
+---
+
+## 🏆 Education  
+- **MHT CET Score:** 95.66 percentile (PCM)  
+- **HSC Board:** 88.33% | **SSC Board:** 87.40%  
+ 
+
+---
+
+## 📫 Let's Connect!  
+📩 Email: [saniamulla99@gmail.com](mailto:saniamulla99@gmail.com)  
+ 
+
+🚀 Always eager to collaborate, learn, and build exciting projects!
