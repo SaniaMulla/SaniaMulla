@@ -24,7 +24,7 @@ I am a **fourth-year Computer Engineering student at PVGCOET, Pune**, with a str
 - Adapted to **new tools & technologies**, enhancing technical expertise  
 - Strengthened **soft skills** while working on real-world projects  
 
-### 🏢 Family Business - **Raj Sales and Services**  
+### 🏢 Associate Business Analyst - **Raj Sales and Services** (Feb 2024 - Feb 2025) 
 - Assisted in business operations by **creating presentations and contributing innovative ideas**  
 - Business website: [cablemall.in](https://cablemall.in)  
 
