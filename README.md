@@ -36,7 +36,6 @@ Let’s build something meaningful.
 ---
 
 ## 📌 Projects  
-## 🧠 Projects
 
 ### 🤖 SynapseIQ – AI Powered Educational Assistant  
 - Designed and implemented a **chatbot-based learning assistant** with real-time query handling and knowledge retrieval  
