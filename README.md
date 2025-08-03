@@ -1,20 +1,29 @@
 # Hi, I'm Sania Mulla! 👋
 
-### 💻 Computer Engineering Student | Web Developer | Tech Enthusiast
+### 💻 **Computer Engineering Graduate | Frontend Developer | AI & LLM Enthusiast**
 
-I am a **fourth-year Computer Engineering student at PVGCOET, Pune**, with a strong foundation in **software development and hardware principles**. Passionate about coding, web development, and continuous learning, I thrive in dynamic environments where I can apply my skills to real-world challenges.
 
+I'm a Computer Engineering graduate passionate about building intuitive digital experiences and smart AI-powered tools. I specialize in frontend development and I'm currently diving deep into the world of Large Language Models, AI chatbots, and agent-based systems.
+
+My recent work includes developing a CoPilot-style chatbot using LangChain, FastAPI, and OpenAI's GPT models, and building full-stack applications with seamless user interaction. I blend creativity with technical skills to bring ideas to life, whether it’s crafting responsive web interfaces or integrating backend logic for AI-driven solutions.
+
+Let’s build something meaningful.
 ---
 
 ## 🔹 About Me
-- 🎓 Pursuing **B.E. in Computer Engineering** (2021-2025)  
-- 💡 Interested in **Web Development, Software Engineering, and Artificial Intelligence**  
-- 🔨 **Technical Skills:**  
-  - **Programming:** C++, Python  
-  - **Web Development:** HTML, CSS, Bootstrap  
-  - **Tools & OS:** VS Code, Windows, Linux  
-- ⚽ **District-level Football Player**
-- Creative Designer 🎨
+🎓 Computer Engineering Graduate (2021–2025) from SPPU  
+💡 Passionate about Web Development, AI Chatbots, and Software Engineering  
+🧠 Currently building AI-powered agents using LangChain, FastAPI, OpenAI API & RAG  
+🌐 Developed and deployed multiple responsive web apps and chatbot tools  
+
+🛠️ **Technical Skills:**  
+  - **Languages:** Python, C++, HTML, CSS, JavaScript  
+  - **Frameworks/Tools:** FastAPI, LangChain, Streamlit, Git, Postman  
+  - **Design & Deployment:** Figma (basic), Canva, GitHub Pages  
+
+🤖 Interested in LLM integration, multi-agent systems, and prompt engineering  
+⚽ District-Level Football Player | 🎨 Creative Designer  
+🌍 Portfolio: [saniamulla.github.io](http://saniamulla.github.io)
  
 ---
 
@@ -22,29 +31,42 @@ I am a **fourth-year Computer Engineering student at PVGCOET, Pune**, with a str
 ### 🌐 Web Development Intern - **Jijau Softwares, Satara** (Dec 2023 - Jan 2024)  
 - Designed & implemented **responsive web pages** using **CSS frameworks like Bootstrap**  
 - Adapted to **new tools & technologies**, enhancing technical expertise  
-- Strengthened **soft skills** while working on real-world projects  
-
-### 🏢 Associate Business Analyst - **Raj Sales and Services** (Feb 2024 - Feb 2025) 
-- Assisted in business operations by **creating presentations and contributing innovative ideas**  
-- Business website: [cablemall.in](https://cablemall.in)  
+- Strengthened **soft skills** while working on real-world projects
 
 ---
 
 ## 📌 Projects  
-### 📈 **Stock Market Website**  
-- **Web Technology project** that provides **real-time stock prices, historical data, and interactive charts**  
+## 🧠 Projects
 
-### 📑 **Seminar: Social Engineering & Artificial Intelligence**  
-- Explored the intersection of **AI and cybersecurity threats**
+### 🤖 SynapseIQ – AI Powered Educational Assistant  
+- Designed and implemented a **chatbot-based learning assistant** with real-time query handling and knowledge retrieval  
+- Integrated **AI-powered features** such as **automated Q&A**, **dynamic response generation**, and **interactive experimentation**  
+- Gained hands-on exposure to **LLMs, RAG, and prompt engineering**
 
-### **SynapseIQ**
-- Educational platform that provides summaries , flashcards , etc from documents and many other features like chatbot ,etc 
+### 🧠 AI Chatbot – Context Aware Assistant  
+- Building a chatbot that answers questions from uploaded documents using **OpenAI’s LLMs** and **LangChain**  
+- Implementing **Retrieval-Augmented Generation (RAG)** for context-aware, accurate responses  
+- Used **FastAPI** for backend API handling; includes plans for a **Streamlit-based frontend demo**  
+- Focused on **prompt engineering**, **document indexing**, and real-world assistant behavior
+
+### 🖥️ Personal Portfolio Website  
+- Designed and deployed a **modern, mobile-responsive personal portfolio** to showcase projects, skills, and work experience  
+- Implemented interactive UI using **HTML, CSS, and JavaScript** with a focus on **smooth UX and minimalistic design**  
+- Integrated links to **GitHub, LinkedIn**, and **featured projects** for easy access and visibility
+
+### 🛍️ Amani Attires – Clothing Brand Website  
+- Developed and deployed a **responsive product catalog website** using **HTML, CSS, and JavaScript**  
+- Integrated **WhatsApp-based ordering**, allowing users to send product images or custom requests via floating action buttons  
+- Focused on **clean UI**, **product visibility**, and **mobile-first navigation** to enhance brand experience
+
 
 ---
 
 ## 🏆 Education  
-- **MHT CET Score:** 95.66 percentile (PCM)  
-- **HSC Board:** 88.33% | **SSC Board:** 87.40%  
+- **B.E. in Computer Engineering (2021–2025)** | **CGPA:** 7.51  
+- **HSC Board:** 88.33%  
+- **SSC Board:** 87.40%
+
  
 
 ---
